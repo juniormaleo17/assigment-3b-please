@@ -1,0 +1,47 @@
+{
+    "Contacts": [
+        {
+            "id": 0,
+            "name": "DEborah Mayele",
+            "number": "416-665-5551",
+            "email": "debora@gmail.com"
+        },
+        {
+            "id": 1,
+            "name": "LOKULI ELEMBO",
+            "number": "416-996-4553",
+            "email": "lokuli@gmail.com"
+        },
+        {       
+            "id": 2,
+            "name": "Junior Donna",
+            "number": "416-557-8885",
+            "email": "june@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Malo kami",
+            "number": "416-558-8500",
+            "email": "malo@gmail.com.com"
+        },
+        {       
+            "id": 4,
+            "name": "Junior Donna",
+            "number": "416-557-8885",
+            "email": "june@gmail.com"
+        },
+        {       
+            "id": 5,
+            "name": "vela malu",
+            "number": "416-557-0085",
+            "email": "vela@gmail.com"
+        }
+        ,
+        {       
+            "id": 6,
+            "name": "kabalo elombe",
+            "number": "416-557-9999",
+            "email": "kabalo@gmail.com"
+        }
+    ]
+}
